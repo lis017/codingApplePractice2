@@ -4,6 +4,8 @@ db연동에서 계속 되는 오류등의 문제점을 느끼고 졸작 팀원�
 
 제가 어렴풋이 알던 지식들을 정리할겸 제대로 배워보고자 하는 repository입니다
 
+맘에 들던 부분: 코드를 외우지말고, 어떤 코드들이 있고, 그것을 필요할때 사용하고자 하는 생각을 내라.
+
 keyword: spring boot, jpa, mysql, azure, hibernate, thymeleaf, rest api, s3, aws등
 
 //https://codingapple.com/course/spring-boot-jpa/
